@@ -1,4 +1,4 @@
-# Cybernetic-Democracy
+# Cybernetic Democracy
 
 ## Redefining Superintelligence for the 21st Century
 
