@@ -1,8 +1,5 @@
 # Cybernetic-Democracy
 
-Cybernetic Democracy
-# Beyond Silicon Dreams: Toward a Cybernetic Democracy
-
 ## Redefining Superintelligence for the 21st Century
 
 The contemporary discourse around artificial superintelligence suffers from a fundamental conceptual error. We have mistaken the map for the territory, conflating intelligence with individual cognitive capability rather than recognizing it as the emergent property of civilizational-scale coordination. True superintelligence will not manifest as a singular, god-like entity dispensing wisdom from silicon heavens, but as a distributed nervous system embedded within the material infrastructure of human society itself.
